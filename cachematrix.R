@@ -3,6 +3,7 @@
 ## if it has been already calculated and the inverse is retrieved from
 ## the cache instead.
 
+
 ## makeCacheMatrix creates a special object that stores a matrix
 ## and caches its inverse. This special object is actually a list
 ## containing functions to:
